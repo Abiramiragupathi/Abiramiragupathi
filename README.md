@@ -8,9 +8,7 @@
   <a href="mailto:abiramiragupathi20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Abiramiragupathi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
@@ -18,9 +16,9 @@
 ### 👩‍💻 About Me
 
 - 🔍 Data Analytics professional with experience in **MIS reporting, business intelligence, and operational analytics**
-- 🏨 Currently working as **MIS Analyst at Thalappakatti Hotels** — building dashboards, automating reports, and driving data-driven decisions
+- 🏨  Former as **MIS Analyst at Thalappakatti Hotels** — building dashboards, automating reports, and driving data-driven decisions
 - 🏦 Former **Assurance Analyst Intern at Ernst & Young (EY)** — audit analytics, compliance reporting, and workflow automation
-- 🎓 M.Sc. Decision and Computing Sciences — **Coimbatore Institute of Technology | CGPA: 8.79**
+- 🎓 M.Sc. Decision and Computing Sciences — **Coimbatore Institute of Technology | CGPA: 8.80**
 - 📝 Published researcher — ML-based optimization for E-Commerce delivery (IJECS)
 - 💡 Passionate about turning raw data into business insights
 
