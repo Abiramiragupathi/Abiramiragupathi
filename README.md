@@ -2,7 +2,7 @@
 <h3 align="center">Data Analytics Professional | Python | SQL | Power BI | SAP | Excel</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abirami-ragupathi" target="_blank">
+  <a href="https://www.linkedin.com/in/abirami-ragupathi-076b6720a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abiramiragupathi20@gmail.com">
