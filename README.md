@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abirami Ragupathi</h1>
-<h3 align="center">Data Analytics Professional | Python | SQL | Power BI | SAP | Excel</h3>
+<h3 align="center">Data Analytics & Business Analyst Professional | Python | SQL | Power BI | SAP | Excel</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abirami-ragupathi-076b6720a/" target="_blank">
